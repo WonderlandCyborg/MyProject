@@ -13,3 +13,5 @@ git status
 git add
 git commit
 git log
+git config --global --edit
+git config --local --edit
