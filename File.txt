@@ -7,3 +7,9 @@ cd - change directory
 	~ - home directory
 	/ - root directory
 
+Git Commands:
+git init
+git status
+git add
+git commit
+git log
