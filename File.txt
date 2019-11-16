@@ -1,0 +1,9 @@
+Powershell: (arguments are seperated by spaces)
+pwd - prints current directory
+ls - prints contents of current directory
+cd - change directory
+	. - current directory
+	.. - parent directory
+	~ - home directory
+	/ - root directory
+
