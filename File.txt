@@ -19,3 +19,12 @@ git remote add origin [git web address]
 git push -u origin master
 git push -u [remote] [branch]
 git push
+
+
+//    o      o      o       o      o      o     (o)     o      ^ ^ ^
+//   <|<    \|/    <|>    "'|\    /|'"   (|)     |     <|>     <---|>
+//   /\     /\     /\      /\     /\     /\      |>    <|>    <\>  <\>
+//                                                     <|>     <\>  <\>
+//                                                     <\>    </>    <\>    
+//                                                      <\> </>         <--->
+//                                                       <\-/>
